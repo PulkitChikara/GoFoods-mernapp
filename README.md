@@ -14,57 +14,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+Images
+#Homepage
+![home1](https://github.com/PulkitChikara/GoFoods-mernapp/assets/81486998/449d0539-3c81-4c3b-8b98-37a37e07495c)
+![home2](https://github.com/PulkitChikara/GoFoods-mernapp/assets/81486998/6671740b-6e7b-40bd-864e-528fee3addef)
+![home4](https://github.com/PulkitChikara/GoFoods-mernapp/assets/81486998/e3ba3587-6608-453c-8775-160503e613e3)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#Sign-up page
+![signup](https://github.com/PulkitChikara/GoFoods-mernapp/assets/81486998/e6e96a00-0535-4af4-a4f7-41b7cd44f8ea)
 
-### `npm run build`
+#Login Page
+![login](https://github.com/PulkitChikara/GoFoods-mernapp/assets/81486998/b96235da-c918-444c-8820-0d6d0a9d3daa)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#My-cart Page
+![myCart](https://github.com/PulkitChikara/GoFoods-mernapp/assets/81486998/e60d37b7-693f-4328-b6a7-bb5e161c0428)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#My-orders Page
+![myorders](https://github.com/PulkitChikara/GoFoods-mernapp/assets/81486998/ff836193-6af5-468f-804c-3b6247acbc28)
